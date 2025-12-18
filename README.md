@@ -80,6 +80,7 @@ Verify Java installation:
     java -version
 
 How to Run (macOS / Linux)
+
 Option 1: Using run.sh (Recommended)
     
     chmod +x run.sh
